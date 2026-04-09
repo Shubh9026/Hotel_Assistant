@@ -1,3 +1,4 @@
+<img width="828" height="859" alt="Hotel_demo" src="https://github.com/user-attachments/assets/f19aa30e-3eac-4f6d-9eeb-cf9aaaaa324a" />
 # Hotel Guest Concierge (FastAPI + Ollama + MongoDB + RAG)
 
 A lightweight **hotel concierge assistant** with chat-based room service, complaint tracking, hotel info Q&A, and local recommendations. Supports **Ollama (local LLM)**, **MongoDB / JSON storage**, and optional **RAG over PDFs**.
