@@ -1,0 +1,116 @@
+{
+  "name": "Taj Palace Delhi",
+  "description": "A magnificent 5-star heritage hotel located in the heart of New Delhi, blending Mughal architecture with modern luxury, offering unparalleled hospitality and world-class amenities for discerning travelers.",
+  "location": {
+    "address": "Sardar Patel Marg, Diplomatic Enclave",
+    "city": "New Delhi",
+    "country": "India",
+    "pincode": "110021",
+    "coordinates": {
+      "latitude": 28.6000,
+      "longitude": 77.2000
+    },
+    "nearby_attractions": [
+      "Rashtrapati Bhavan (President's House) - 2.5 km",
+      "India Gate - 3.2 km",
+      "Red Fort - 4.1 km",
+      "Qutub Minar - 8.5 km",
+      "Connaught Place - 4.8 km",
+      "Akshardham Temple - 6.2 km"
+    ]
+  },
+  "contact": {
+    "phone": "+91-11-2611-0202",
+    "email": "reservations@tajhotels.com",
+    "website": "www.tajhotels.com"
+  },
+  "policies": {
+    "check_in": "2:00 PM",
+    "check_out": "12:00 PM",
+    "cancellation": "Free cancellation up to 48 hours before arrival",
+    "pets": "No pets allowed",
+    "smoking": "Designated smoking areas only",
+    "parking": "Complimentary valet parking",
+    "dress_code": "Smart casual attire required in public areas"
+  },
+  "amenities": {
+    "dining": {
+      "restaurant": "Masque - Multi-cuisine restaurant, open 7:00 AM - 11:00 PM",
+      "lounge": "The Chambers - British colonial style bar, open 11:00 AM - 11:30 PM",
+      "room_service": "24-hour multi-cuisine room service available",
+      "coffee_shop": "The Tea Lounge - Specialty teas and coffees, open 10:00 AM - 10:00 PM"
+    },
+    "fitness": {
+      "gym": "Fitness center with modern equipment, open 6:00 AM - 10:00 PM",
+      "pool": "Temperature-controlled outdoor swimming pool, open 7:00 AM - 7:00 PM",
+      "spa": "J Wellness Circle - Ayurvedic treatments, massages, and wellness therapies",
+      "yoga": "Daily yoga sessions available at sunrise"
+    },
+    "business": {
+      "conference_rooms": "8 banquet halls and conference rooms for 20-1000 guests",
+      "business_center": "Open 24 hours with computers, printers, and secretarial services",
+      "wifi": "Complimentary high-speed WiFi throughout the property",
+      "translation": "Multi-lingual staff available for business assistance"
+    },
+    "other": {
+      "concierge": "24-hour personalized concierge service",
+      "laundry": "Express laundry and dry cleaning services",
+      "currency_exchange": "Foreign currency exchange at front desk",
+      "gift_shop": "Bungalow 8 - Curated Indian handicrafts and souvenirs",
+      "library": "Heritage library with books on Indian culture and history",
+      "art_gallery": "Rotating exhibitions of contemporary Indian art"
+    }
+  },
+  "rooms": {
+    "total_rooms": 403,
+    "room_types": [
+      "Deluxe Room",
+      "Executive Suite",
+      "Club Room",
+      "Grand Presidential Suite",
+      "Heritage Room"
+    ],
+    "features": [
+      "42-inch LED TV with satellite channels",
+      "Mini-bar with Indian and international beverages",
+      "In-room electronic safe",
+      "Illy coffee machine",
+      "Hair dryer and bathroom amenities",
+      "Iron and ironing board",
+      "Central air conditioning",
+      "Work desk with ergonomic chair",
+      "Complimentary newspaper",
+      "Turndown service"
+    ]
+  },
+  "services": {
+    "housekeeping": "Twice-daily housekeeping service",
+    "maintenance": "24-hour engineering services",
+    "security": "24-hour security with CCTV and trained personnel",
+    "bell_service": "Bell service with traditional Indian welcome",
+    "tour_desk": "Personalized tour planning for Delhi and Agra excursions",
+    "doctor": "On-call doctor available 24 hours",
+    "baby_sitting": "Professional baby-sitting services available",
+    "car_rental": "Luxury car rental arrangements",
+    "airport_transfer": "Complimentary airport transfers for suite guests"
+  },
+  "accessibility": {
+    "wheelchair_accessible": true,
+    "hearing_impaired": "Hearing loop systems in public areas",
+    "visual_impaired": "Braille signage and audio guides available",
+    "elevator": "Accessible elevators to all floors"
+  },
+  "cultural_experiences": {
+    "traditional_welcome": "Personalized welcome with garlands and tilak",
+    "festive_celebrations": "Special decorations and events during Indian festivals",
+    "culinary_experiences": "Cooking classes for regional Indian cuisines",
+    "heritage_walks": "Guided tours of the hotel's Mughal architecture"
+  },
+  "breakfast": "Complimentary buffet breakfast with Indian, Continental, and Asian cuisines served 6:30 AM - 10:30 AM",
+  "checkout": "12:00 PM",
+  "wifi": "Complimentary high-speed WiFi in all rooms and public areas",
+  "gym": "Modern fitness center with personal trainers",
+  "pool": "Temperature-controlled outdoor swimming pool with poolside service"
+}
+
+   

@@ -1,0 +1,120 @@
+{
+  "profiles": {
+    "room-204": {
+      "room_number": 204,
+      "diet": [
+        "vegan"
+      ],
+      "allergies": [
+        "peanuts"
+      ],
+      "likes": [],
+      "dislikes": [],
+      "history": [
+        {
+          "ts": "2026-03-13T09:50:13.648569+00:00",
+          "message": "I am vegan and allergic to peanuts. Send coffee to room 204",
+          "extracted": {
+            "room_number": 204,
+            "diet": [
+              "vegan"
+            ],
+            "allergies": [
+              "peanuts"
+            ]
+          }
+        },
+        {
+          "ts": "2026-03-13T09:50:38.074698+00:00",
+          "message": "I am vegan and allergic to peanuts. Send coffee to room 204",
+          "extracted": {
+            "room_number": 204,
+            "diet": [
+              "vegan"
+            ],
+            "allergies": [
+              "peanuts"
+            ]
+          }
+        },
+        {
+          "ts": "2026-03-13T09:59:53.074967+00:00",
+          "message": "I want to complain: the AC in room 204 is not working and it\u2019s very hot (maintenance, high severity, location room).",
+          "extracted": {
+            "room_number": 204
+          }
+        },
+        {
+          "ts": "2026-03-13T10:04:28.075904+00:00",
+          "message": "I want to complain: the AC in room 204 is not working and it\u2019s very hot (maintenance, high severity, location room).",
+          "extracted": {
+            "room_number": 204
+          }
+        },
+        {
+          "ts": "2026-03-16T10:17:43.517918+00:00",
+          "message": "send water bottles to room 204",
+          "extracted": {
+            "room_number": 204
+          }
+        },
+        {
+          "ts": "2026-03-16T10:18:33.542697+00:00",
+          "message": "okay then send the soda to my room 204",
+          "extracted": {
+            "room_number": 204
+          }
+        },
+        {
+          "ts": "2026-03-18T05:10:50.946130+00:00",
+          "message": "ac is not working in room 204",
+          "extracted": {
+            "room_number": 204
+          }
+        },
+        {
+          "ts": "2026-03-18T05:11:25.192292+00:00",
+          "message": "send water bottle to room 204",
+          "extracted": {
+            "room_number": 204
+          }
+        }
+      ],
+      "last_message_ts": "2026-03-18T05:11:25.191273+00:00"
+    },
+    "room-200": {
+      "room_number": 200,
+      "diet": [],
+      "allergies": [],
+      "likes": [],
+      "dislikes": [],
+      "history": [
+        {
+          "ts": "2026-03-13T10:13:31.423649+00:00",
+          "message": "ac is not working in room 200",
+          "extracted": {
+            "room_number": 200
+          }
+        }
+      ],
+      "last_message_ts": "2026-03-13T10:13:31.423649+00:00"
+    },
+    "room-202": {
+      "room_number": 202,
+      "diet": [],
+      "allergies": [],
+      "likes": [],
+      "dislikes": [],
+      "history": [
+        {
+          "ts": "2026-03-19T10:50:40.466035+00:00",
+          "message": "ac is not working room 202",
+          "extracted": {
+            "room_number": 202
+          }
+        }
+      ],
+      "last_message_ts": "2026-03-19T10:50:40.466035+00:00"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+
+ollama
+
+requests
+httpx
+typing-extensions
+
+streamlit
+
+# MongoDB (writes: complaints, guest profiles, room service orders)
+pymongo
+
+# RAG (PDF -> chunks -> embeddings -> ChromaDB)
+chromadb
+sentence-transformers
+pypdf
+pymongo

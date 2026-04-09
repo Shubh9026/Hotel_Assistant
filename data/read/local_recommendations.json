@@ -1,0 +1,20 @@
+{
+    "restaurants": [
+      {"name": "Olive Bistro", "rating": "4.6"},
+      {"name": "Spice Garden", "rating": "4.5"},
+      {"name": "Cafe Aroma", "rating": "4.4"}
+    ],
+    "cafes": [
+      {"name": "Cafe Aroma"},
+      {"name": "Brew House"},
+      {"name": "Urban Coffee"}
+    ],
+    "tourist_places": [
+      {"name": "Lucknow Residency"},
+      {"name": "Bara Imambara"},
+      {"name": "Janeshwar Mishra Park"}
+    ]
+  }
+
+
+  

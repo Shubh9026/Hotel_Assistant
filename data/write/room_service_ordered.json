@@ -1,0 +1,45 @@
+[
+  {
+    "id": "e2d6d32f-4b1d-42dc-9f10-b6999728bf16",
+    "ts": "2026-03-13T09:43:56.329233+00:00",
+    "room_number": 204,
+    "item": "coffee",
+    "category": "drinks",
+    "status": "ordered"
+  },
+  {
+    "id": "57bca946-15f8-4678-afd3-cfdbaa7662d4",
+    "ts": "2026-03-13T09:45:20.352752+00:00",
+    "room_number": 204,
+    "item": "tea",
+    "category": "drinks",
+    "status": "ordered"
+  },
+  {
+    "id": "3197fb80-71b4-49f1-8d80-709e6371bef1",
+    "ts": "2026-03-13T09:51:10.429623+00:00",
+    "room_number": 204,
+    "item_raw": "coffee (vegan and peanut-free)",
+    "item": "coffee",
+    "category": "drinks",
+    "status": "ordered"
+  },
+  {
+    "id": "b0c23666-b86f-48fb-b844-f5ddfd281449",
+    "ts": "2026-03-16T10:18:36.560631+00:00",
+    "room_number": 204,
+    "item_raw": "soda",
+    "item": "soda",
+    "category": "drinks",
+    "status": "ordered"
+  },
+  {
+    "id": "ea139c8b-a8d2-4b27-b944-df3ea12f09d6",
+    "ts": "2026-03-18T05:11:28.275805+00:00",
+    "room_number": 204,
+    "item_raw": "water bottle",
+    "item": "water bottle",
+    "category": "drinks",
+    "status": "ordered"
+  }
+]

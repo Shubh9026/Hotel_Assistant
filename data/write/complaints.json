@@ -1,0 +1,80 @@
+[
+  {
+    "id": "CMP-41AB20D8C6",
+    "ts_created": "2026-03-13T09:57:36.448520+00:00",
+    "room_number": 204,
+    "location": "room",
+    "category": "maintenance",
+    "severity": "high",
+    "description": "AC not working",
+    "contact": null,
+    "status": "assigned",
+    "updates": [
+      {
+        "ts": "2026-03-13T09:57:36.460887+00:00",
+        "note": "Assigned to engineering"
+      }
+    ],
+    "ts_updated": "2026-03-13T09:57:36.460887+00:00"
+  },
+  {
+    "id": "CMP-8BA371E9AC",
+    "ts_created": "2026-03-13T09:59:56.391190+00:00",
+    "room_number": null,
+    "location": "room 204",
+    "category": "maintenance",
+    "severity": "high",
+    "description": "AC not working in room 204, room is very hot",
+    "contact": null,
+    "status": "open",
+    "updates": []
+  },
+  {
+    "id": "CMP-725EA4CC58",
+    "ts_created": "2026-03-13T10:04:31.486149+00:00",
+    "room_number": 204,
+    "location": "room",
+    "category": "maintenance",
+    "severity": "high",
+    "description": "AC not working and it's very hot",
+    "contact": null,
+    "status": "open",
+    "updates": []
+  },
+  {
+    "id": "CMP-6C13BF0FED",
+    "ts_created": "2026-03-13T10:13:34.477446+00:00",
+    "room_number": null,
+    "location": "room 200",
+    "category": "maintenance",
+    "severity": "high",
+    "description": "AC not working",
+    "contact": null,
+    "status": "open",
+    "updates": []
+  },
+  {
+    "id": "CMP-7EDB6489E1",
+    "ts_created": "2026-03-18T05:10:54.119574+00:00",
+    "room_number": null,
+    "location": "room 204",
+    "category": "maintenance",
+    "severity": "high",
+    "description": "AC not working",
+    "contact": null,
+    "status": "open",
+    "updates": []
+  },
+  {
+    "id": "CMP-5774D46667",
+    "ts_created": "2026-03-19T10:50:43.496314+00:00",
+    "room_number": 202,
+    "location": "guest room",
+    "category": "maintenance",
+    "severity": "high",
+    "description": "AC not working",
+    "contact": null,
+    "status": "open",
+    "updates": []
+  }
+]

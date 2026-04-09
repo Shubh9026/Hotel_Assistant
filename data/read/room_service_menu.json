@@ -1,0 +1,23 @@
+{
+    "food": [
+     "pasta",
+     "burger",
+     "pizza",
+     "sandwich",
+     "salad"
+    ],
+    "drinks": [
+     "coffee",
+     "tea",
+     "juice",
+     "soda",
+     "water bottle"
+    ],
+    "other": [
+     "extra towels",
+     "blanket",
+     "toothbrush"
+    ]
+   }
+
+   
